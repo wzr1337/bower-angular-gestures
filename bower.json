@@ -9,7 +9,7 @@
   "homepage": "http://github.com/wzr1337/angular-gestures",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wzr1337/angular-gestures"
+    "url": "https://github.com/wzr1337/bower-angular-gestures"
   },
   "author": "wzr1337",
   "license": "MIT",
