@@ -12,7 +12,9 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "angular": "~1.2.0",
+    "angular": "~1.2.0"
+  },
+  "devDependencies": {
     "hammerjs": "~1.0.5"
   }
 }
